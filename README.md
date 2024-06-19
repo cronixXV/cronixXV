@@ -25,6 +25,12 @@ I'm Egor, Frontend developer (React.js, JavaScript, TypeScript).
 <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35?logo=mongoosedotws&logoColor=fff&style=for-the-badge"/>
 
+>Testing web applications with
+><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+
+
+
 <!--
 **cronixXV/cronixXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
