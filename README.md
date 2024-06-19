@@ -32,7 +32,8 @@ I'm Egor, Frontend developer (React.js, JavaScript, TypeScript).
 ## More staff about me
 My Instargram with photocards:
 <p>
-[![Instargram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cronix_xv)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instargam/cronix_xv)
+
 
 
 <!--
