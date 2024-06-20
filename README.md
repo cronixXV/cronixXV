@@ -1,8 +1,11 @@
 ## Hi there, I'm Egor Gruzdev
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cronix_xv)
 
 Welcome to my page!
 I'm Egor, Frontend developer (React.js, JavaScript, TypeScript).
+
+My contacts:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cronix_xv)
+
 
 # My tech stacks
 
