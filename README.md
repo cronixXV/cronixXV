@@ -4,7 +4,7 @@
 Welcome to my page!
 I'm Egor, Frontend developer (React.js, JavaScript, TypeScript).
 
-#My tech stacks
+# My tech stacks
 
 >Programming Languages:
 <p>
